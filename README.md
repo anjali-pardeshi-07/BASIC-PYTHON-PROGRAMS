@@ -9,5 +9,5 @@ p1.py contains use of print() statement.
               HELLO HELLO   HELLO
               
 p2.py contains storing a string into a variable.
-#OUTPUT :- HAPPY BIRTHDAY...PRASHANT
-           GOOD DAY PRASHANT
+#OUTPUT :-    HAPPY BIRTHDAY...PRASHANT
+              GOOD DAY PRASHANT
