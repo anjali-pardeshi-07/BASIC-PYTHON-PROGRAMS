@@ -8,4 +8,6 @@ p1.py contains use of print() statement.
               WEST
               HELLO HELLO   HELLO
               
-p2.py contains 
+p2.py contains storing a string into a variable.
+#OUTPUT :- HAPPY BIRTHDAY...PRASHANT
+           GOOD DAY PRASHANT
